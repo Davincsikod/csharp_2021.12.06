@@ -1,0 +1,10 @@
+C:\Users\infse21\source\repos\csharp_2021.12.06\csharp_2021.12.06\bin\Debug\csharp_2021.12.06.exe.config
+C:\Users\infse21\source\repos\csharp_2021.12.06\csharp_2021.12.06\bin\Debug\csharp_2021.12.06.exe
+C:\Users\infse21\source\repos\csharp_2021.12.06\csharp_2021.12.06\bin\Debug\csharp_2021.12.06.pdb
+C:\Users\infse21\source\repos\csharp_2021.12.06\csharp_2021.12.06\obj\Debug\csharp_2021.12.06.csproj.AssemblyReference.cache
+C:\Users\infse21\source\repos\csharp_2021.12.06\csharp_2021.12.06\obj\Debug\csharp_2021._12._06.Form1.resources
+C:\Users\infse21\source\repos\csharp_2021.12.06\csharp_2021.12.06\obj\Debug\csharp_2021._12._06.Properties.Resources.resources
+C:\Users\infse21\source\repos\csharp_2021.12.06\csharp_2021.12.06\obj\Debug\csharp_2021.12.06.csproj.GenerateResource.cache
+C:\Users\infse21\source\repos\csharp_2021.12.06\csharp_2021.12.06\obj\Debug\csharp_2021.12.06.csproj.CoreCompileInputs.cache
+C:\Users\infse21\source\repos\csharp_2021.12.06\csharp_2021.12.06\obj\Debug\csharp_2021.12.06.exe
+C:\Users\infse21\source\repos\csharp_2021.12.06\csharp_2021.12.06\obj\Debug\csharp_2021.12.06.pdb
